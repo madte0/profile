@@ -68,13 +68,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-/*PARTICULES***/
-#particles-js {
-
-	width: 100%;
-	background-color: aqua;
-  }
-
 /* Basic */
 
 	@-ms-viewport {
