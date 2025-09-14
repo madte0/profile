@@ -3252,7 +3252,7 @@ input, select, textarea {
 		top: 0;
 		width: 50vw;
 		z-index: -1;
-		fill: rgba(144, 144, 144, 0.1);
+		fill: rgba(255, 99, 71, 0.6);
 	}
 
 
