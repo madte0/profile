@@ -3240,10 +3240,10 @@ input, select, textarea {
 	#wrapper:before {
 		background-attachment: fixed;
 		background-color: #000000;
-		background-image: url("https://madte0.github.io/profile/images/bg_profile.svg");
-		background-position: -50% 10%;
+		background-image: url("https://madte0.github.io/profile/images/bg_profile.svg fill='rgba(144, 144, 144, 0.1)'");
+		background-position: -20% 10%;
 		background-repeat: repeat-y;
-		background-size: 75% auto;
+		background-size: 50% auto;
 		content: '';
 		display: block;
 		height: 100%;
